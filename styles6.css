@@ -73,4 +73,5 @@ body {
   
   #submit-button:hover {
     background-color: #1976D2;
+    border: 2px solid red;
   }

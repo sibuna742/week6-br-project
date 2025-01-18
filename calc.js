@@ -76,7 +76,7 @@ sendbutton.addEventListener("click",()=>{
     // feedbacklist.removeChild();
     let x=comment.value;
     if(x!==null){
-        alert("successfully created");
+        alert("feedback is added");
         document.getElementById("feedback").value=" ";
         // return false;
     }

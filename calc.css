@@ -92,11 +92,22 @@ margin-right: 50px; */
 .footer {
   display: flex;
   flex-direction: column;
+  /* justify-content: center;/ */
   margin-top: 500px;
-  height: 20px;
   color: white;
+  
+  /* border: 3px solid red; */
+
  
 }
+/* p{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+  width: 100px;
+  height: 40px;
+  margin-left: 0;
+} */
 
 .title {
   display: flex;
@@ -112,6 +123,7 @@ margin-right: 50px; */
   flex-direction: row;
   justify-content: space-between;
   margin: 70px;
+  color:bisque
 
 }
 
